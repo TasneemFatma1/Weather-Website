@@ -1,2 +1,2 @@
 # Weather-Website
-Developed it by using HTML, CSS, Bootstrap, and Javascript
+Developed a Weather website using NodeJS and ReactJS.
